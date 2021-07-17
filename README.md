@@ -1,4 +1,4 @@
-Material para futuras implementações de Thunk em React.
+Material para futuras implementações de Redux em React.
 
 Desenvolvido com ajuda de Anderson Nascimento. 
 https://github.com/AndersonNascimentoAFSN
